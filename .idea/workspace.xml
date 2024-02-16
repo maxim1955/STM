@@ -17,13 +17,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
@@ -59,6 +62,7 @@
       <recent name="C:\Users\Max-PC\Desktop\work\is-mosHTML\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max-PC\OneDrive - Peter the Great St. Petersburg Polytechnical University\___WORK-GROUP___\STM_HTML\Js" />
       <recent name="C:\Users\Max-PC\OneDrive - Peter the Great St. Petersburg Polytechnical University\___WORK-GROUP___\STM_HTML\css" />
       <recent name="C:\Users\Max-PC\OneDrive - Peter the Great St. Petersburg Polytechnical University\___WORK-GROUP___\STM_HTML" />
       <recent name="C:\Users\Max-PC\OneDrive - Peter the Great St. Petersburg Polytechnical University\___WORK-GROUP___\STM_HTML\layout" />
@@ -102,7 +106,7 @@
       <workItem from="1708074872116" duration="44000" />
       <workItem from="1708075200097" duration="21000" />
       <workItem from="1708075848730" duration="37000" />
-      <workItem from="1708075920147" duration="1310000" />
+      <workItem from="1708075920147" duration="3811000" />
     </task>
     <servers />
   </component>
@@ -113,7 +117,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/assets/bs-slider.js</url>
+          <url>file://$PROJECT_DIR$/Js/bs-slider.js</url>
           <line>37</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
