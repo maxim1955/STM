@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "Montserrat-bold";
+    src: url("../assets/fonts/Montserrat-Bold.woff2") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto-regular";
+    src: url("../assets/fonts/Roboto-Regular.woff2") format('woff');
+}
+@font-face {
+    font-family: "Rubik-Bold";
+    src: url("../assets/fonts/Rubik-Bold.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Rubik-Medium";
+    src: url("../assets/fonts/Rubik-Medium.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Rubik-regular";
+    src: url("../assets/fonts/Rubik-Regular.ttf") format("opentype");
+}
+
+.footer_top {
+    display: flex;
+    max-width: 90%;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding-top: 3%;
+}
+
+.top_logo {
+}
+
+.top_service, .top_about, .map_card {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+
+.top_service a, .top_about a, .map_under_links p, .top_mode p, .footer_links a {
+    color: #263141;
+    font-family: "Rubik-regular", sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.top_service p, .top_about p, .map_under_links a, .footer_links p {
+    color: #A1ABB9;
+    font-family: "Rubik-Medium", sans-serif;
+    text-decoration: none;
+}
+
+.top_mode p:nth-child(2),
+.top_mode p:nth-child(3),
+.top_mode p:nth-child(4) {
+    margin-bottom: 20px;
+}
+
+.top_service p, .top_about p, .footer_links p {
+    font-size: 20px;
+}
+
+.map_under_links a {
+    font-size: 16px;
+}
+
+.top_about {
+
+}
+
+.top_map {
+    max-width: 338px;
+}
+
+.map_card {
+}
+
+.map_under_links {
+    line-height: 35px;
+}
+
+.top_mode {
+    max-width: 290px;
+}
+
+.mode_social {
+    max-width: 275px;
+}
+
+.footer_links {
+    max-width: 90%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.footer_links__item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.footer_links__item a:before {
+    content: url(/assets/images/foter_links_location.svg);
+    display: block;
+    text-decoration: none;
+    padding-right: 15px;
+
+}
+
+.footer_links__item a {
+    width: 25%;
+    display: flex;
+    padding-bottom: 15px;
+}
+
+.footer_links > p {
+    margin: 20px 0 20px 0;
+}
