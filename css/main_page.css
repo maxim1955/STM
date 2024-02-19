@@ -1185,7 +1185,7 @@ li.doc_link__item:last-child {
 */
 
 
-.help_title {
+.poverka_help .help_title {
     font-family: "Rubik-Bold";
     font-size: 80px;
     text-align: center;
@@ -1205,23 +1205,23 @@ li.doc_link__item:last-child {
 .accordion-header {
 }
 
-.accordion-button {
+.poverka_help .accordion-button {
     font-family: "Rubik-Medium";
     font-size: 40px;
     color: #4B4B4B;
 }
 
-.accordion-button:not(.collapsed) {
+.poverka_help .accordion-button:not(.collapsed) {
     background: none;
 }
 
-.accordion-button:focus {
+.poverka_help .accordion-button:focus {
     z-index: 3;
     border-color: #4B4B4B;
     outline: 0;
 }
 
-.accordion-button::after {
+.poverka_help .accordion-button::after {
     width: 84px;
     height: 60px;
     background-size: 56px;

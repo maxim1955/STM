@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be98fd64-c4c5-47d3-a734-84b3430dd60c" name="Changes" comment="" />
+    <list default="true" id="be98fd64-c4c5-47d3-a734-84b3430dd60c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/poverka.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/poverka.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/poverka.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +29,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maxim1955&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="debc9605-27a8-4bab-a22a-53333aae5573" />
+        <option name="url" value="https://github.com/maxim1955/STM.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,7 +125,10 @@
       <workItem from="1708074872116" duration="44000" />
       <workItem from="1708075200097" duration="21000" />
       <workItem from="1708075848730" duration="37000" />
-      <workItem from="1708075920147" duration="3811000" />
+      <workItem from="1708075920147" duration="4788000" />
+      <workItem from="1708084138363" duration="9228000" />
+      <workItem from="1708094270290" duration="172000" />
+      <workItem from="1708150191303" duration="48112000" />
     </task>
     <servers />
   </component>
